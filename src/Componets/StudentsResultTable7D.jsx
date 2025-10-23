@@ -282,7 +282,7 @@ export default function StudentResultsTable() {
           <TextField
             fullWidth
             variant="outlined"
-            placeholder="Ingrese RUT completo..."
+            placeholder="Ingrese RUT "
             value={searchRut}
             onChange={(e) => setSearchRut(e.target.value)}
             onKeyPress={handleKeyPress}
@@ -305,7 +305,7 @@ export default function StudentResultsTable() {
         </Box>
         <Typography variant="body2" color="text.secondary" sx={{ mt: 1 }}>
           {!activeSearchRut.trim()
-            ? "Ingrese un RUT completo y presione Buscar"
+            ? "Ingrese RUT sin puntos ni guión y presione Buscar"
             : filteredStudents.length === 0
             ? "No se encontró ningún estudiante con ese RUT"
             : `Mostrando ${filteredStudents.length} resultado${filteredStudents.length !== 1 ? "s" : ""}`}
