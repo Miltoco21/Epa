@@ -330,9 +330,7 @@ export default function StudentResultsTable() {
               <TableCell align="center" sx={{ color: "white", fontWeight: "bold" }}>
                 Speaking
               </TableCell>
-              <TableCell align="center" sx={{ color: "white", fontWeight: "bold" }}>
-                Overall
-              </TableCell>
+          
             </TableRow>
           </TableHead>
           <TableBody>
@@ -407,7 +405,7 @@ export default function StudentResultsTable() {
                       <Chip label={student.speaking.level} size="small" color={getLevelColor(student.speaking.level)} />
                     </Box>
                   </TableCell>
-                  <TableCell align="center">
+                  {/* <TableCell align="center">
                     <Box sx={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 0.5 }}>
                       <Typography variant="body2" sx={{ fontWeight: 600, color: getScoreColor(student.overall.score) }}>
                         {student.overall.score}%
@@ -416,7 +414,7 @@ export default function StudentResultsTable() {
                         <Chip label={student.overall.level} size="small" color={getLevelColor(student.overall.level)} />
                       )}
                     </Box>
-                  </TableCell>
+                  </TableCell> */}
                 </TableRow>
               ))
             )}
