@@ -4,6 +4,7 @@ import { Box } from "@mui/material"
 import StudentResultsTable7D from "./Componets/StudentsResultTable7D"
 // import SummaryCards from "@/components/summary-cards"
 import Header from "./Componets/Header"
+import StudentResultsTable from "./Componets/StudentResultsTable"
 
 export default function App() {
   return (
@@ -14,7 +15,7 @@ export default function App() {
         {/* <SummaryCards /> */}
 
         <Box sx={{ mt: 4 }}>
-          <StudentResultsTable7D />
+          <StudentResultsTable />
         </Box>
       </Box>
     </Box>
