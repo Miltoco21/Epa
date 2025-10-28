@@ -112,13 +112,7 @@ export default function StudentResultsTable() {
             </Select>
           </FormControl>
 
-          {selectedCourse && (
-            <Chip
-              label={`${currentCourseStudents.length} estudiantes en el curso`}
-              color="primary"
-              variant="outlined"
-            />
-          )}
+        
         </Box>
 
         {/* Buscador de RUT */}
@@ -385,27 +379,7 @@ export default function StudentResultsTable() {
         </Table>
       </TableContainer>
 
-      {/* Información adicional del curso seleccionado */}
-      {selectedCourse && (
-        <Box
-          sx={{
-            mt: 2,
-            p: 2,
-            bgcolor: "primary.light",
-            borderRadius: 1,
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-          }}
-        >
-          <Typography variant="body2" sx={{ fontWeight: 500, color: "primary.dark" }}>
-            📚 Curso seleccionado: {coursesData[selectedCourse].courseName}
-          </Typography>
-          <Typography variant="body2" sx={{ color: "primary.dark" }}>
-            👥 Total de estudiantes: {currentCourseStudents.length}
-          </Typography>
-        </Box>
-      )}
+   
     </Paper>
   );
 }

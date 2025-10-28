@@ -513,7 +513,559 @@ export const coursesData = {
         "overall": { "score": 0, "level": "" }
       }
     ]
+  },
+  "6C": {
+    "courseName": "Sexto C",
+    "students": [
+      {
+        "name": "Aburto Carreño Mateo Daniel",
+        "rut": "24410438K",
+        "listening": { "score": 64, "level": "Towards A2" },
+        "reading": { "score": 63, "level": "Towards A2" },
+        "writing": { "score": 43, "level": "A1" },
+        "speaking": { "score": 93, "level": "Towards B1" },
+        "overall": { "score": 66, "level": "Towards A2" }
+      },
+      {
+        "name": "Aspe Campos Camilo",
+        "rut": "242781058",
+        "listening": { "score": 80, "level": "A2" },
+        "reading": { "score": 60, "level": "Towards A2" },
+        "writing": { "score": 47, "level": "A2" },
+        "speaking": { "score": 93, "level": "Towards B1" },
+        "overall": { "score": 70, "level": "A2" }
+      },
+      {
+        "name": "Barrientos Van de Wiele Alicia Ines",
+        "rut": "24396914K",
+        "listening": { "score": 92, "level": "Towards B1" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 73, "level": "A2" },
+        "speaking": { "score": 80, "level": "A2" },
+        "overall": { "score": 83, "level": "A2" }
+      },
+      {
+        "name": "Bonacic Planzer Franz",
+        "rut": "240483025",
+        "listening": { "score": 88, "level": "A2" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 60, "level": "A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 84, "level": "A2" }
+      },
+      {
+        "name": "Calderon Valdes Pascale Belen",
+        "rut": "243222915",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 71, "level": "A2" },
+        "writing": { "score": 27, "level": "A1" },
+        "speaking": { "score": 81, "level": "A2" },
+        "overall": { "score": 66, "level": "Towards A2" }
+      },
+      {
+        "name": "Contreras Acuña Trinidad Amalia",
+        "rut": "244578993",
+        "listening": { "score": 41, "level": "A1" },
+        "reading": { "score": 13, "level": "A1" },
+        "writing": { "score": 23, "level": "A1" },
+        "speaking": { "score": 51, "level": "A1" },
+        "overall": { "score": 19, "level": "A1" }
+      },
+      {
+        "name": "Contreras Moreno Alonso Ignacio",
+        "rut": "244355056",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 57, "level": "Towards A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 69, "level": "A2" }
+      },
+      {
+        "name": "Correa Andaur David Alejandro",
+        "rut": "242882318",
+        "listening": { "score": 92, "level": "B1" },
+        "reading": { "score": 73, "level": "A2" },
+        "writing": { "score": 67, "level": "A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 80, "level": "A2" }
+      },
+      {
+        "name": "de la Fuente Salazar Matias Rodrigo",
+        "rut": "243990513",
+        "listening": { "score": 36, "level": "A1" },
+        "reading": { "score": 50, "level": "Towards A2" },
+        "writing": { "score": 20, "level": "A1" },
+        "speaking": { "score": 53, "level": "Towards A2" },
+        "overall": { "score": 40, "level": "A1" }
+      },
+      {
+        "name": "Farmer Kubat Raimundo Gaspar",
+        "rut": "24358325K",
+        "listening": { "score": 64, "level": "Towards A2" },
+        "reading": { "score": 70, "level": "A2" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 93, "level": "Towards B1" },
+        "overall": { "score": 69, "level": "Towards A2" }
+      },
+      {
+        "name": "Fenerías Morales Isidora Francisca",
+        "rut": "242371828",
+        "listening": { "score": 76, "level": "A2" },
+        "reading": { "score": 90, "level": "Towards B1" },
+        "writing": { "score": 67, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 83, "level": "A2" }
+      },
+      {
+        "name": "Fornes Zubicueta Martina Paz",
+        "rut": "244779336",
+        "listening": { "score": 44, "level": "A1" },
+        "reading": { "score": 41, "level": "A1" },
+        "writing": { "score": 21, "level": "A1" },
+        "speaking": { "score": 73, "level": "A2" },
+        "overall": { "score": 31, "level": "A1" }
+      },
+      {
+        "name": "Jorquera Gatica Maite Agustina",
+        "rut": "242667336",
+        "listening": { "score": 88, "level": "A2" },
+        "reading": { "score": 83, "level": "A2" },
+        "writing": { "score": 60, "level": "A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 86, "level": "A2" }
+      },
+      {
+        "name": "Lavandero Camus Fernando Alberto",
+        "rut": "244470904",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 73, "level": "A2" },
+        "writing": { "score": 60, "level": "A2" },
+        "speaking": { "score": 93, "level": "Towards B1" },
+        "overall": { "score": 75, "level": "A2" }
+      },
+      {
+        "name": "Mansilla Rios Joaquin Andrés",
+        "rut": "244313655",
+        "listening": { "score": 80, "level": "A2" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 53, "level": "Towards A2" },
+        "speaking": { "score": 73, "level": "A2" },
+        "overall": { "score": 73, "level": "A2" }
+      },
+      {
+        "name": "Meneses Pareja Gabriel Andrés",
+        "rut": "242649354",
+        "listening": { "score": 48, "level": "Towards A2" },
+        "reading": { "score": 40, "level": "A1" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 55, "level": "Towards A2" }
+      },
+      {
+        "name": "Méndez Garcìa Mariangel",
+        "rut": "251002770",
+        "listening": { "score": 84, "level": "A2" },
+        "reading": { "score": 77, "level": "A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 60, "level": "A2" },
+        "overall": { "score": 70, "level": "A2" }
+      },
+      {
+        "name": "Núñez Díaz María Jesús",
+        "rut": "24473152K",
+        "listening": { "score": 60, "level": "Towards A2" },
+        "reading": { "score": 57, "level": "Towards A2" },
+        "writing": { "score": 63, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 67, "level": "Towards A2" }
+      },
+      {
+        "name": "Núñez González Agustin Alonso",
+        "rut": "24473152K",
+        "listening": { "score": 68, "level": "Towards A2" },
+        "reading": { "score": 67, "level": "Towards A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 73, "level": "A2" },
+        "overall": { "score": 67, "level": "Towards A2" }
+      },
+      {
+        "name": "Olea Bueno Antonia",
+        "rut": "242681894",
+        "listening": { "score": 60, "level": "Towards A2" },
+        "reading": { "score": 57, "level": "Towards A2" },
+        "writing": { "score": 53, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 64, "level": "Towards A2" }
+      },
+      {
+        "name": "Osorio Escárate Joaquin Andrés",
+        "rut": "242999495",
+        "listening": { "score": 76, "level": "A2" },
+        "reading": { "score": 77, "level": "A2" },
+        "writing": { "score": 80, "level": "A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 83, "level": "A2" }
+      },
+      {
+        "name": "Pineda González Martin Antonio",
+        "rut": "244695043",
+        "listening": { "score": 80, "level": "A2" },
+        "reading": { "score": 70, "level": "A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 78, "level": "A2" }
+      },
+      {
+        "name": "Pizarro Hidalgo Alonso",
+        "rut": "242997298",
+        "listening": { "score": 64, "level": "A2" },
+        "reading": { "score": 83, "level": "A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 74, "level": "A2" }
+      },
+      {
+        "name": "Porstmann González Sebastián",
+        "rut": "245462565",
+        "listening": { "score": 60, "level": "Towards A2" },
+        "reading": { "score": 57, "level": "Towards A2" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 53, "level": "Towards A2" },
+        "overall": { "score": 54, "level": "Towards A2" }
+      },
+      {
+        "name": "Puebla Fuentelaba Santiago Alonso",
+        "rut": "243263980",
+        "listening": { "score": 76, "level": "A2" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 53, "level": "A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 76, "level": "A2" }
+      },
+      {
+        "name": "Quinteros Sánchez Nicolás Martín",
+        "rut": "242436660",
+        "listening": { "score": 64, "level": "Towards A2" },
+        "reading": { "score": 60, "level": "Towards A2" },
+        "writing": { "score": 67, "level": "A2" },
+        "speaking": { "score": 93, "level": "Towards B1" },
+        "overall": { "score": 71, "level": "A2" }
+      },
+      {
+        "name": "Severino Urzúa Víctor Alonso",
+        "rut": "244946712",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 67, "level": "A2" },
+        "writing": { "score": 43, "level": "A1" },
+        "speaking": { "score": 80, "level": "A2" },
+        "overall": { "score": 66, "level": "Towards A2" }
+      },
+      {
+        "name": "Vicuña Bajarlia Gabriel Ignacio",
+        "rut": "246588856",
+        "listening": { "score": 56, "level": "Towards A2" },
+        "reading": { "score": 50, "level": "Towards A2" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 67, "level": "Towards A2" },
+        "overall": { "score": 55, "level": "Towards A2" }
+      },
+      {
+        "name": "Wall Acuña Gabriela",
+        "rut": "242452720",
+        "listening": { "score": 84, "level": "A2" },
+        "reading": { "score": 93, "level": "Towards B1" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 84, "level": "A2" }
+      },
+      {
+        "name": "Soto Jimenez Antonia",
+        "rut": "241554864",
+        "listening": { "score": 0, "level": "" },
+        "reading": { "score": 0, "level": "" },
+        "writing": { "score": 53, "level": "Towards A2" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 0, "level": "" }
+      }
+    ]
+  },
+  "6D": {
+    "courseName": "Sexto D",
+    "students": [
+      {
+        "name": "Aguirre Remedi Dominique Alejandra",
+        "rut": "244546749",
+        "listening": { "score": 76, "level": "A2" },
+        "reading": { "score": 90, "level": "Towards B1" },
+        "writing": { "score": 60, "level": "A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 82, "level": "A2" }
+      },
+      {
+        "name": "Andrades Moreno Agustín Tomás",
+        "rut": "245067917",
+        "listening": { "score": 92, "level": "Towards B1" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 63, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 86, "level": "A2" }
+      },
+      {
+        "name": "Arce Holmgren Agustín Enrique",
+        "rut": "244879608",
+        "listening": { "score": 68, "level": "Towards A2" },
+        "reading": { "score": 63, "level": "Towards A2" },
+        "writing": { "score": 37, "level": "A1" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 64, "level": "Towards A2" }
+      },
+      {
+        "name": "Arrieta Bruno Pía Ignacia",
+        "rut": "243492041",
+        "listening": { "score": 32, "level": "A1" },
+        "reading": { "score": 53, "level": "Towards A2" },
+        "writing": { "score": 0, "level": "A1" },
+        "speaking": { "score": 53, "level": "Towards A2" },
+        "overall": { "score": 35, "level": "A1" }
+      },
+      {
+        "name": "Bahamondes Suárez Sebastián Ignacio",
+        "rut": "243168317",
+        "listening": { "score": 83, "level": "A2" },
+        "reading": { "score": 83, "level": "A2" },
+        "writing": { "score": 63, "level": "Towards A2" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 92, "level": "Towards B1" }
+      },
+      {
+        "name": "Barberis Pérez Agustín Andrés",
+        "rut": "244793592",
+        "listening": { "score": 40, "level": "A1" },
+        "reading": { "score": 53, "level": "Towards A2" },
+        "writing": { "score": 43, "level": "A1" },
+        "speaking": { "score": 60, "level": "Towards A2" },
+        "overall": { "score": 49, "level": "Towards A2" }
+      },
+      {
+        "name": "Carrasco Vilches Amanda Belén",
+        "rut": "243528437",
+        "listening": { "score": 80, "level": "A2" },
+        "reading": { "score": 57, "level": "Towards A2" },
+        "writing": { "score": 23, "level": "A1" },
+        "speaking": { "score": 67, "level": "Towards A2" },
+        "overall": { "score": 57, "level": "Towards A2" }
+      },
+      {
+        "name": "Castillo Espinoza Fernanda Ignacia",
+        "rut": "242119967",
+        "listening": { "score": 76, "level": "A2" },
+        "reading": { "score": 80, "level": "A2" },
+        "writing": { "score": 50, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 73, "level": "A2" }
+      },
+      {
+        "name": "Castro García Santiago León",
+        "rut": "24343257K",
+        "listening": { "score": 92, "level": "Towards B1" },
+        "reading": { "score": 90, "level": "Towards B1" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 93, "level": "Towards B1" },
+        "overall": { "score": 84, "level": "A2" }
+      },
+      {
+        "name": "Escudero Torres Noah Máximo",
+        "rut": "245179928",
+        "listening": { "score": 64, "level": "Towards A2" },
+        "reading": { "score": 47, "level": "Towards A2" },
+        "writing": { "score": 53, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 63, "level": "Towards A2" }
+      },
+      {
+        "name": "Faure Brandt Maite Sophie",
+        "rut": "244287700",
+        "listening": { "score": 80, "level": "A2" },
+        "reading": { "score": 83, "level": "A2" },
+        "writing": { "score": 67, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 83, "level": "A2" }
+      },
+      {
+        "name": "Fernández Golusda Josefina Ignacia",
+        "rut": "244211976",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 70, "level": "A2" },
+        "writing": { "score": 57, "level": "Towards A2" },
+        "speaking": { "score": 80, "level": "A2" },
+        "overall": { "score": 70, "level": "A2" }
+      },
+      {
+        "name": "García Urtubia Felipe Agustín",
+        "rut": "243608708",
+        "listening": { "score": 40, "level": "A1" },
+        "reading": { "score": 33, "level": "A1" },
+        "writing": { "score": 30, "level": "A1" },
+        "speaking": { "score": 53, "level": "Towards A2" },
+        "overall": { "score": 39, "level": "A1" }
+      },
+      {
+        "name": "González Sánchez Martina Ignacia",
+        "rut": "243380073",
+        "listening": { "score": 0, "level": "" },
+        "reading": { "score": 0, "level": "" },
+        "writing": { "score": 53, "level": "Towards A2" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 0, "level": "" }
+      },
+      {
+        "name": "Hu Wu Julián Yiyong",
+        "rut": "243165326",
+        "listening": { "score": 88, "level": "A2" },
+        "reading": { "score": 90, "level": "Towards B1" },
+        "writing": { "score": 63, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 85, "level": "A2" }
+      },
+      {
+        "name": "López Leiva Gabriel Antonio",
+        "rut": "243021936",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 57, "level": "A2" },
+        "writing": { "score": 13, "level": "A1" },
+        "speaking": { "score": 27, "level": "A1" },
+        "overall": { "score": 42, "level": "A1" }
+      },
+      {
+        "name": "Muñoz Manríquez Catalina Leonor",
+        "rut": "243337070",
+        "listening": { "score": 48, "level": "Towards A2" },
+        "reading": { "score": 53, "level": "Towards A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 60, "level": "Towards A2" },
+        "overall": { "score": 55, "level": "Towards A2" }
+      },
+      {
+        "name": "Oyarzún Vergara Nicolás Antonio",
+        "rut": "240445387",
+        "listening": { "score": 96, "level": "Towards B1" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 67, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 87, "level": "A2" }
+      },
+      {
+        "name": "Pantoja Pino Ignacio Álvaro",
+        "rut": "241926079",
+        "listening": { "score": 88, "level": "A2" },
+        "reading": { "score": 80, "level": "A2" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 67, "level": "Towards A2" },
+        "overall": { "score": 70, "level": "A2" }
+      },
+      {
+        "name": "Peralta Muñoz Santiago Andrés",
+        "rut": "242854829",
+        "listening": { "score": 76, "level": "A2" },
+        "reading": { "score": 43, "level": "A1" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 63, "level": "Towards A2" }
+      },
+      {
+        "name": "Reszczynski Steinert Leon",
+        "rut": "244576842",
+        "listening": { "score": 52, "level": "Towards A2" },
+        "reading": { "score": 52, "level": "Towards A2" },
+        "writing": { "score": 47, "level": "Towards A2" },
+        "speaking": { "score": 73, "level": "A2" },
+        "overall": { "score": 57, "level": "Towards A2" }
+      },
+      {
+        "name": "Revello Navarro Bruno Ignacio",
+        "rut": "244356877",
+        "listening": { "score": 72, "level": "A2" },
+        "reading": { "score": 63, "level": "Towards A2" },
+        "writing": { "score": 63, "level": "Towards A2" },
+        "speaking": { "score": 73, "level": "Towards A2" },
+        "overall": { "score": 68, "level": "Towards A2" }
+      },
+      {
+        "name": "Reyes Jimenez Luciano Andres",
+        "rut": "243458935",
+        "listening": { "score": 60, "level": "Towards A2" },
+        "reading": { "score": 60, "level": "Towards A2" },
+        "writing": { "score": 0, "level": "A1" },
+        "speaking": { "score": 53, "level": "Towards A2" },
+        "overall": { "score": 43, "level": "A1" }
+      },
+      {
+        "name": "Rojas Galaz Simón Alonso",
+        "rut": "244327869",
+        "listening": { "score": 100, "level": "Towards B1" },
+        "reading": { "score": 87, "level": "A2" },
+        "writing": { "score": 63, "level": "Towards A2" },
+        "speaking": { "score": 87, "level": "A2" },
+        "overall": { "score": 84, "level": "A2" }
+      },
+      {
+        "name": "Salas Hurtado Agustín Ignacio",
+        "rut": "243544815",
+        "listening": { "score": 56, "level": "Towards A2" },
+        "reading": { "score": 56, "level": "Towards A2" },
+        "writing": { "score": 30, "level": "A1" },
+        "speaking": { "score": 73, "level": "Towards A2" },
+        "overall": { "score": 52, "level": "Towards A2" }
+      },
+      {
+        "name": "San Martín Pérez Vicente Ignacio",
+        "rut": "244577997",
+        "listening": { "score": 44, "level": "A1" },
+        "reading": { "score": 44, "level": "A1" },
+        "writing": { "score": 37, "level": "A1" },
+        "speaking": { "score": 73, "level": "A2" },
+        "overall": { "score": 49, "level": "A1" }
+      },
+      {
+        "name": "Sandoval Castro Baltazar",
+        "rut": "243589487",
+        "listening": { "score": 80, "level": "A2" },
+        "reading": { "score": 80, "level": "A2" },
+        "writing": { "score": 57, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 79, "level": "A2" }
+      },
+      {
+        "name": "Travieso Mena Laura María",
+        "rut": "244021530",
+        "listening": { "score": 63, "level": "A2" },
+        "reading": { "score": 63, "level": "Towards A2" },
+        "writing": { "score": 60, "level": "Towards A2" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 84, "level": "A2" }
+      },
+      {
+        "name": "Vásquez Vega Diego Gabriel",
+        "rut": "244100414",
+        "listening": { "score": 88, "level": "A2" },
+        "reading": { "score": 93, "level": "Towards B1" },
+        "writing": { "score": 67, "level": "Towards A2" },
+        "speaking": { "score": 100, "level": "Towards B1" },
+        "overall": { "score": 87, "level": "A2" }
+      },
+      {
+        "name": "Aguila Gonzalez Magdalena Isidora",
+        "rut": "243047625",
+        "listening": { "score": 0, "level": "" },
+        "reading": { "score": 0, "level": "" },
+        "writing": { "score": 67, "level": "Towards A2" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 0, "level": "" }
+      }
+    
+    ]
   }
+
 
 
 };
