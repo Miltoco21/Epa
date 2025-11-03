@@ -3033,7 +3033,509 @@ export const coursesData = {
       },
       
     ]
+  },
+  "2E": {
+    "courseName": "Segundo E",
+    "students": [
+      {
+        "name": "Araujo Riascos Abigail",
+        "rut": "27348115K",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 16, "level": "" },
+        "writing": { "score": 16, "level": "" },
+        "speaking": { "score": 80, "level": "" },
+        "overall": { "score": 62, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Campos Rivera Antonia Ignacia",
+        "rut": "260187260",
+        "listening": { "score": 75, "level": "" },
+        "reading": { "score": 48, "level": "" },
+        "writing": { "score": 48, "level": "" },
+        "speaking": { "score": 60, "level": "" },
+        "overall": { "score": 61, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Carrasco Riffo Martina Antonia",
+        "rut": "261569256",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 20, "level": "" },
+        "writing": { "score": 20, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 63, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Delgado Rojas Mauro Angel",
+        "rut": "258272129",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 60, "level": "" },
+        "overall": { "score": 60, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Domínguez Castiglione Gaspar Andrés",
+        "rut": "261760649",
+        "listening": { "score": 80, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 61, "level": "Satisfactorio" }
+      },
+      {
+        "name": "González Henríquez Mariano Gabriel",
+        "rut": "261603144",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 80, "level": "" },
+        "overall": { "score": 69, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Hidalgo Álvarez Amalia Pascal",
+        "rut": "259567289",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 60, "level": "" },
+        "writing": { "score": 60, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 83, "level": "Consolidado" }
+      },
+      {
+        "name": "Inda Henríquez Leonor",
+        "rut": "257639940",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 80, "level": "" },
+        "writing": { "score": 80, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 92, "level": "Consolidado" }
+      },
+      {
+        "name": "Muñoz Hurtado Julieta",
+        "rut": "259882230",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 76, "level": "" },
+        "writing": { "score": 76, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 78, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Ríos Badilla Catalina Emilia",
+        "rut": "260530135",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 60, "level": "" },
+        "writing": { "score": 60, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 77, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Saavedra Ferreira Mariana Francisca",
+        "rut": "261500906",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 44, "level": "" },
+        "writing": { "score": 44, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 71, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Soto Sandoval Catalina Paz",
+        "rut": "257280829",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 92, "level": "" },
+        "writing": { "score": 92, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 97, "level": "Consolidado" }
+      },
+      {
+        "name": "Tanida Cardoso Yuki Paulo",
+        "rut": "265290205",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 80, "level": "" },
+        "writing": { "score": 80, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 89, "level": "Consolidado" }
+      },
+      {
+        "name": "Velasquez Salay Lucas Emilio",
+        "rut": "261321742",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 88, "level": "" },
+        "writing": { "score": 88, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 96, "level": "Consolidado" }
+      },
+      {
+        "name": "Yévenes Miranda Emiliano Andrés",
+        "rut": "261697106",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 48, "level": "" },
+        "writing": { "score": 48, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 69, "level": "Satisfactorio" }
+      }
+    ]
+  },
+  "2C": {
+    "courseName": "Segundo C",
+    "students": [
+      {
+        "name": "Abarca Rojas Rafael Santiago",
+        "rut": "258186516",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 56, "level": "" },
+        "writing": { "score": 56, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 81, "level": "Consolidado" }
+      },
+      {
+        "name": "Almarcegui Rojas Lucas Vicente",
+        "rut": "258285905",
+        "listening": { "score": 60, "level": "" },
+        "reading": { "score": 68, "level": "" },
+        "writing": { "score": 68, "level": "" },
+        "speaking": { "score": 80, "level": "" },
+        "overall": { "score": 69, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Castillo Novakovic Emma",
+        "rut": "258724305",
+        "listening": { "score": 80, "level": "" },
+        "reading": { "score": 68, "level": "" },
+        "writing": { "score": 68, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 78, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Castro Bello Martín Alejandro",
+        "rut": "259684420",
+        "listening": { "score": 80, "level": "" },
+        "reading": { "score": 60, "level": "" },
+        "writing": { "score": 60, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 78, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Garcia Hernandez Martina Emilia Simone",
+        "rut": "260349767",
+        "listening": { "score": 75, "level": "" },
+        "reading": { "score": 44, "level": "" },
+        "writing": { "score": 44, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 62, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Gonzalez Rios Mateo Alonso",
+        "rut": "258752503",
+        "listening": { "score": 70, "level": "" },
+        "reading": { "score": 68, "level": "" },
+        "writing": { "score": 68, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 68, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Guíñez Guerrero Emilia Isabel",
+        "rut": "261296918",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 84, "level": "" },
+        "writing": { "score": 84, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 95, "level": "Consolidado" }
+      },
+      {
+        "name": "Leal Garcia Nicole Paz",
+        "rut": "261782480",
+        "listening": { "score": 60, "level": "" },
+        "reading": { "score": 52, "level": "" },
+        "writing": { "score": 52, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 60, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Maldonado Gutiérrez Vicente Ignacio",
+        "rut": "257700666",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 96, "level": "" },
+        "writing": { "score": 96, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 99, "level": "Consolidado" }
+      },
+      {
+        "name": "Mallea Sáez Pablo José",
+        "rut": "260775499",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 24, "level": "" },
+        "writing": { "score": 24, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 71, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Mancilla Farfán Felipe Alberto",
+        "rut": "258895193",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 48, "level": "" },
+        "writing": { "score": 48, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 78, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Martínez Martínez Álvaro Tomás",
+        "rut": "259116562",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 56, "level": "" },
+        "writing": { "score": 56, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 82, "level": "Consolidado" }
+      },
+      {
+        "name": "Muñoz Núñez Agustina Anaís",
+        "rut": "257261352",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 56, "level": "" },
+        "writing": { "score": 56, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 80, "level": "Consolidado" }
+      },
+      {
+        "name": "Navarrete Herrera Agustina Isidora",
+        "rut": "257500578",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 52, "level": "" },
+        "writing": { "score": 52, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 77, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Palma Vidal Constanza Belén",
+        "rut": "26112372K",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 40, "level": "" },
+        "writing": { "score": 40, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 71, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Quintanilla Durán Alfonso Ignacio",
+        "rut": "258849566",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 64, "level": "" },
+        "writing": { "score": 64, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 81, "level": "Consolidado" }
+      },
+      {
+        "name": "Reydet Leyton Luciano Jesús",
+        "rut": "260493957",
+        "listening": { "score": 70, "level": "" },
+        "reading": { "score": 60, "level": "" },
+        "writing": { "score": 60, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 77, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Rivera Cammas Agustín Andrés",
+        "rut": "259154596",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 64, "level": "" },
+        "writing": { "score": 64, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 83, "level": "Consolidado" }
+      },
+      {
+        "name": "Roco Arancibia Rafaela",
+        "rut": "257923754",
+        "listening": { "score": 70, "level": "" },
+        "reading": { "score": 72, "level": "" },
+        "writing": { "score": 72, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 76, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Sandoval Martínez María Gracia",
+        "rut": "261258617",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 32, "level": "" },
+        "writing": { "score": 32, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 70, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Soto Moreno Sebastián Amador",
+        "rut": "259046424",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 48, "level": "" },
+        "writing": { "score": 48, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 69, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Urtubia Quijanes Vicente Alonso",
+        "rut": "259492548",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 80, "level": "" },
+        "writing": { "score": 80, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 88, "level": "Consolidado" }
+      },
+      {
+        "name": "Viera Del Pozo Julián Arturo",
+        "rut": "260348965",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 88, "level": "" },
+        "writing": { "score": 88, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 92, "level": "Consolidado" }
+      },
+      {
+        "name": "Villegas Pozo Isabella Evolet",
+        "rut": "25905124K",
+        "listening": { "score": 80, "level": "" },
+        "reading": { "score": 56, "level": "" },
+        "writing": { "score": 56, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 76, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Wang Xue Stephen Yu Zhe",
+        "rut": "259191017",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 60, "level": "" },
+        "writing": { "score": 60, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 83, "level": "Consolidado" }
+      }
+    ]
+  },
+  "2D": {
+    "courseName": "Segundo D",
+    "students": [
+      {
+        "name": "Acevedo Varas Ignacia Paz",
+        "rut": "261908018",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 56, "level": "" },
+        "writing": { "score": 56, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 80, "level": "Consolidado" }
+      },
+      {
+        "name": "Aguilar Vásquez Pedro Luciano",
+        "rut": "261191172",
+        "listening": { "score": 80, "level": "" },
+        "reading": { "score": 88, "level": "" },
+        "writing": { "score": 88, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 89, "level": "Consolidado" }
+      },
+      {
+        "name": "Amashta Morilla Isidora Beatriz",
+        "rut": "258200322",
+        "listening": { "score": 95, "level": "" },
+        "reading": { "score": 28, "level": "" },
+        "writing": { "score": 28, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 74, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Aspe Campos Lorenzo Iñaki",
+        "rut": "261051664",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 64, "level": "" },
+        "writing": { "score": 64, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 81, "level": "Consolidado" }
+      },
+      {
+        "name": "Baeza Salazar Joaquín Ignacio",
+        "rut": "260391216",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 56, "level": "" },
+        "writing": { "score": 56, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 80, "level": "Consolidado" }
+      },
+      {
+        "name": "Cabeza Palma Agustina Paz",
+        "rut": "26064145K",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 72, "level": "" },
+        "writing": { "score": 72, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 86, "level": "Consolidado" }
+      },
+      {
+        "name": "Carvajal Castro Dominga Ignacia",
+        "rut": "260509993",
+        "listening": { "score": 85, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 80, "level": "" },
+        "overall": { "score": 67, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Cerda Vidal Nicolás Valentino",
+        "rut": "262297772",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 76, "level": "" },
+        "writing": { "score": 76, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 86, "level": "Consolidado" }
+      },
+      {
+        "name": "Lastra Moreno Maximiliano Antonio",
+        "rut": "258521919",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 40, "level": "" },
+        "writing": { "score": 40, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 72, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Ramírez Reyes Borja Andrés",
+        "rut": "256294176",
+        "listening": { "score": 70, "level": "" },
+        "reading": { "score": 44, "level": "" },
+        "writing": { "score": 44, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 67, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Saffie Vásquez Emma Paz",
+        "rut": "257931862",
+        "listening": { "score": 55, "level": "" },
+        "reading": { "score": 28, "level": "" },
+        "writing": { "score": 28, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 61, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Salinas Arrué Salvador Bautista",
+        "rut": "260714422",
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 72, "level": "" },
+        "writing": { "score": 72, "level": "" },
+        "speaking": { "score": 60, "level": "" },
+        "overall": { "score": 74, "level": "Satisfactorio" }
+      },
+      {
+        "name": "Ugarte Pedraza Javier Antonio",
+        "rut": "257059154",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 92, "level": "" },
+        "writing": { "score": 92, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 95, "level": "Consolidado" }
+      },
+      {
+        "name": "Velasquez Salay Mateo Javier",
+        "rut": "261322021",
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 80, "level": "" },
+        "writing": { "score": 80, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 93, "level": "Consolidado" }
+      }
+    ]
   }
+
 };
 
 // Función auxiliar para obtener la lista de cursos disponibles
