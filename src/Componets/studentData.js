@@ -2785,7 +2785,7 @@ export const coursesData = {
       }
     ]
   },
-  "3D": {
+"3D": {
     "courseName": "Tercero D",
     "students": [
       {
@@ -3011,43 +3011,43 @@ export const coursesData = {
         "reading": { "score": 92, "level": "" },
         "writing": { "score": 92, "level": "" },
         "speaking": { "score": 93, "level": "" },
-        "overall": { "score": 93, "level": "" }
+        "overall": { "score": 93, "level": "Consolidado" }
       },
       {
         "name": "Tsukame Corrada Emiko Sofía",
         "rut": "257189449",
-        "listening": { "score": 0, "level": "" },
-        "reading": { "score": 0, "level": "" },
-        "writing": { "score": 0, "level": "" },
+        "listening": { "score": 75, "level": "" },
+        "reading": { "score": 64, "level": "" },
+        "writing": { "score": 64, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 80, "level": "" }
+        "overall": { "score": 80, "level": "Satisfactorio" }
       },
       {
         "name": "Ulloa Castillo Agustín Andrés",
         "rut": "254994510",
-        "listening": { "score": 0, "level": "" },
-        "reading": { "score": 0, "level": "" },
-        "writing": { "score": 0, "level": "" },
+        "listening": { "score": 100, "level": "" },
+        "reading": { "score": 96, "level": "" },
+        "writing": { "score": 96, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 99, "level": "" }
+        "overall": { "score": 99, "level": "Consolidado" }
       },
       {
         "name": "Valenzuela Rojas Rebeca Fernanda",
         "rut": "256846306",
-        "listening": { "score": 0, "level": "" },
-        "reading": { "score": 0, "level": "" },
-        "writing": { "score": 0, "level": "" },
+        "listening": { "score": 90, "level": "" },
+        "reading": { "score": 88, "level": "" },
+        "writing": { "score": 88, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 93, "level": "" }
+        "overall": { "score": 93, "level": "Consolidado" }
       },
       {
         "name": "Videla Catriñir Vaitea Alejandra",
         "rut": "255612107",
-        "listening": { "score": 0, "level": "" },
-        "reading": { "score": 0, "level": "" },
-        "writing": { "score": 0, "level": "" },
+        "listening": { "score": 45, "level": "" },
+        "reading": { "score": 64, "level": "" },
+        "writing": { "score": 64, "level": "" },
         "speaking": { "score": 47, "level": "" },
-        "overall": { "score": 52, "level": "" }
+        "overall": { "score": 52, "level": "Intermedio" }
       },
       {
         "name": "Aránguiz Gálvez Jorge Ignacio",
@@ -3055,8 +3055,8 @@ export const coursesData = {
         "listening": { "score": 65, "level": "" },
         "reading": { "score": 56, "level": "" },
         "writing": { "score": 56, "level": "" },
-        "speaking": { "score": 0, "level": "" },
-        "overall": { "score": 61, "level": "" }
+        "speaking": { "score": 0, "level": "no rendido" },
+        "overall": { "score": 61, "level": "Satisfactorio" }
       },
       {
         "name": "Gutierrez Aranguiz Maria Ignacia",
@@ -3064,8 +3064,8 @@ export const coursesData = {
         "listening": { "score": 70, "level": "" },
         "reading": { "score": 80, "level": "" },
         "writing": { "score": 80, "level": "" },
-        "speaking": { "score": 0, "level": "" },
-        "overall": { "score": 75, "level": "" }
+        "speaking": { "score": 0, "level": "no rendido" },
+        "overall": { "score": 75, "level": "Satisfactorio" }
       },
       {
         "name": "Núñez Zeballos Florencia Renata",
@@ -3073,8 +3073,8 @@ export const coursesData = {
         "listening": { "score": 50, "level": "" },
         "reading": { "score": 32, "level": "" },
         "writing": { "score": 32, "level": "" },
-        "speaking": { "score": 0, "level": "" },
-        "overall": { "score": 41, "level": "" }
+        "speaking": { "score": 0, "level": "no rendido" },
+        "overall": { "score": 41, "level": "Intermedio" }
       },
       {
         "name": "Salinas Alvear Joaquina Paz",
@@ -3082,10 +3082,9 @@ export const coursesData = {
         "listening": { "score": 55, "level": "" },
         "reading": { "score": 60, "level": "" },
         "writing": { "score": 60, "level": "" },
-        "speaking": { "score": 0, "level": "" },
-        "overall": { "score": 58, "level": "" }
-      },
-      
+        "speaking": { "score": 0, "level": "no rendido" },
+        "overall": { "score": 58, "level": "Intermedio" }
+      }
     ]
   },
   "2E": {
