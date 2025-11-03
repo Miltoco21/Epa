@@ -3044,7 +3044,34 @@ export const coursesData = {
         "reading": { "score": 16, "level": "" },
         "writing": { "score": 16, "level": "" },
         "speaking": { "score": 80, "level": "" },
-        "overall": { "score": 62, "level": "Satisfactorio" }
+        "overall": { "score": 62, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Avaria Matamala Alicia Ignacia",
+        "rut": "261560844",
+        "listening": { "score": 75, "level": "" },
+        "reading": { "score": 32, "level": "" },
+        "writing": { "score": 32, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 58, "level": "Nivel intermedio" }
+      },
+      {
+        "name": "Branchadell Narváez Cristóbal Ignacio",
+        "rut": "258098439",
+        "listening": { "score": 70, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 53, "level": "" },
+        "overall": { "score": 53, "level": "Nivel intermedio" }
+      },
+      {
+        "name": "Bravo Lagos Maximiliano Alonso",
+        "rut": "259021804",
+        "listening": { "score": 20, "level": "" },
+        "reading": { "score": 16, "level": "" },
+        "writing": { "score": 16, "level": "" },
+        "speaking": { "score": 80, "level": "" },
+        "overall": { "score": 39, "level": "Nivel incipiente" }
       },
       {
         "name": "Campos Rivera Antonia Ignacia",
@@ -3053,7 +3080,7 @@ export const coursesData = {
         "reading": { "score": 48, "level": "" },
         "writing": { "score": 48, "level": "" },
         "speaking": { "score": 60, "level": "" },
-        "overall": { "score": 61, "level": "Satisfactorio" }
+        "overall": { "score": 61, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Carrasco Riffo Martina Antonia",
@@ -3062,7 +3089,16 @@ export const coursesData = {
         "reading": { "score": 20, "level": "" },
         "writing": { "score": 20, "level": "" },
         "speaking": { "score": 73, "level": "" },
-        "overall": { "score": 63, "level": "Satisfactorio" }
+        "overall": { "score": 63, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Carvajal Castro Isidora Paz",
+        "rut": "260509810",
+        "listening": { "score": 70, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 53, "level": "" },
+        "overall": { "score": 53, "level": "Nivel intermedio" }
       },
       {
         "name": "Delgado Rojas Mauro Angel",
@@ -3071,7 +3107,7 @@ export const coursesData = {
         "reading": { "score": 36, "level": "" },
         "writing": { "score": 36, "level": "" },
         "speaking": { "score": 60, "level": "" },
-        "overall": { "score": 60, "level": "Satisfactorio" }
+        "overall": { "score": 60, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Domínguez Castiglione Gaspar Andrés",
@@ -3080,7 +3116,16 @@ export const coursesData = {
         "reading": { "score": 36, "level": "" },
         "writing": { "score": 36, "level": "" },
         "speaking": { "score": 67, "level": "" },
-        "overall": { "score": 61, "level": "Satisfactorio" }
+        "overall": { "score": 61, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Fuentes Villalobos Luciano Bautista",
+        "rut": "259315344",
+        "listening": { "score": 55, "level": "" },
+        "reading": { "score": 12, "level": "" },
+        "writing": { "score": 12, "level": "" },
+        "speaking": { "score": 53, "level": "" },
+        "overall": { "score": 40, "level": "Nivel intermedio" }
       },
       {
         "name": "González Henríquez Mariano Gabriel",
@@ -3089,7 +3134,7 @@ export const coursesData = {
         "reading": { "score": 36, "level": "" },
         "writing": { "score": 36, "level": "" },
         "speaking": { "score": 80, "level": "" },
-        "overall": { "score": 69, "level": "Satisfactorio" }
+        "overall": { "score": 69, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Hidalgo Álvarez Amalia Pascal",
@@ -3098,7 +3143,7 @@ export const coursesData = {
         "reading": { "score": 60, "level": "" },
         "writing": { "score": 60, "level": "" },
         "speaking": { "score": 93, "level": "" },
-        "overall": { "score": 83, "level": "Consolidado" }
+        "overall": { "score": 83, "level": "Nivel consolidado" }
       },
       {
         "name": "Inda Henríquez Leonor",
@@ -3107,7 +3152,7 @@ export const coursesData = {
         "reading": { "score": 80, "level": "" },
         "writing": { "score": 80, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 92, "level": "Consolidado" }
+        "overall": { "score": 92, "level": "Nivel consolidado" }
       },
       {
         "name": "Muñoz Hurtado Julieta",
@@ -3116,7 +3161,16 @@ export const coursesData = {
         "reading": { "score": 76, "level": "" },
         "writing": { "score": 76, "level": "" },
         "speaking": { "score": 73, "level": "" },
-        "overall": { "score": 78, "level": "Satisfactorio" }
+        "overall": { "score": 78, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Rosales Arias Juan Luis",
+        "rut": "261255138",
+        "listening": { "score": 80, "level": "" },
+        "reading": { "score": 20, "level": "" },
+        "writing": { "score": 20, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 56, "level": "Nivel intermedio" }
       },
       {
         "name": "Ríos Badilla Catalina Emilia",
@@ -3125,7 +3179,7 @@ export const coursesData = {
         "reading": { "score": 60, "level": "" },
         "writing": { "score": 60, "level": "" },
         "speaking": { "score": 87, "level": "" },
-        "overall": { "score": 77, "level": "Satisfactorio" }
+        "overall": { "score": 77, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Saavedra Ferreira Mariana Francisca",
@@ -3134,7 +3188,7 @@ export const coursesData = {
         "reading": { "score": 44, "level": "" },
         "writing": { "score": 44, "level": "" },
         "speaking": { "score": 73, "level": "" },
-        "overall": { "score": 71, "level": "Satisfactorio" }
+        "overall": { "score": 71, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Soto Sandoval Catalina Paz",
@@ -3143,7 +3197,7 @@ export const coursesData = {
         "reading": { "score": 92, "level": "" },
         "writing": { "score": 92, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 97, "level": "Consolidado" }
+        "overall": { "score": 97, "level": "Nivel consolidado" }
       },
       {
         "name": "Tanida Cardoso Yuki Paulo",
@@ -3152,7 +3206,7 @@ export const coursesData = {
         "reading": { "score": 80, "level": "" },
         "writing": { "score": 80, "level": "" },
         "speaking": { "score": 87, "level": "" },
-        "overall": { "score": 89, "level": "Consolidado" }
+        "overall": { "score": 89, "level": "Nivel consolidado" }
       },
       {
         "name": "Velasquez Salay Lucas Emilio",
@@ -3161,7 +3215,7 @@ export const coursesData = {
         "reading": { "score": 88, "level": "" },
         "writing": { "score": 88, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 96, "level": "Consolidado" }
+        "overall": { "score": 96, "level": "Nivel consolidado" }
       },
       {
         "name": "Yévenes Miranda Emiliano Andrés",
@@ -3170,10 +3224,29 @@ export const coursesData = {
         "reading": { "score": 48, "level": "" },
         "writing": { "score": 48, "level": "" },
         "speaking": { "score": 73, "level": "" },
-        "overall": { "score": 69, "level": "Satisfactorio" }
+        "overall": { "score": 69, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Hernández Cepeda Matías Andrés",
+        "rut": "259424720",
+        "listening": { "score": 76, "level": "" },
+        "reading": { "score": 0, "level": "" },
+        "writing": { "score": 0, "level": "" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 76, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Junyent Matus Jaime Alberto",
+        "rut": "258034767",
+        "listening": { "score": 84, "level": "" },
+        "reading": { "score": 0, "level": "" },
+        "writing": { "score": 0, "level": "" },
+        "speaking": { "score": 0, "level": "" },
+        "overall": { "score": 84, "level": "Nivel consolidado" }
       }
     ]
-  },
+  }
+,
  "2C": {
     "courseName": "Segundo C",
     "students": [
