@@ -3174,7 +3174,7 @@ export const coursesData = {
       }
     ]
   },
-  "2C": {
+ "2C": {
     "courseName": "Segundo C",
     "students": [
       {
