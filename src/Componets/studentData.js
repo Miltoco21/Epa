@@ -3414,7 +3414,7 @@ export const coursesData = {
         "reading": { "score": 56, "level": "" },
         "writing": { "score": 56, "level": "" },
         "speaking": { "score": 93, "level": "" },
-        "overall": { "score": 80, "level": "Consolidado" }
+        "overall": { "score": 80, "level": "Nivel consolidado" }
       },
       {
         "name": "Aguilar Vásquez Pedro Luciano",
@@ -3423,7 +3423,16 @@ export const coursesData = {
         "reading": { "score": 88, "level": "" },
         "writing": { "score": 88, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 89, "level": "Consolidado" }
+        "overall": { "score": 89, "level": "Nivel consolidado" }
+      },
+      {
+        "name": "Aguirre Valenzuela Cristóbal Alonso",
+        "rut": "261875217",
+        "listening": { "score": 60, "level": "" },
+        "reading": { "score": 28, "level": "" },
+        "writing": { "score": 28, "level": "" },
+        "speaking": { "score": 87, "level": "" },
+        "overall": { "score": 58, "level": "Nivel intermedio" }
       },
       {
         "name": "Amashta Morilla Isidora Beatriz",
@@ -3432,7 +3441,7 @@ export const coursesData = {
         "reading": { "score": 28, "level": "" },
         "writing": { "score": 28, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 74, "level": "Satisfactorio" }
+        "overall": { "score": 74, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Aspe Campos Lorenzo Iñaki",
@@ -3441,7 +3450,7 @@ export const coursesData = {
         "reading": { "score": 64, "level": "" },
         "writing": { "score": 64, "level": "" },
         "speaking": { "score": 93, "level": "" },
-        "overall": { "score": 81, "level": "Consolidado" }
+        "overall": { "score": 81, "level": "Nivel consolidado" }
       },
       {
         "name": "Baeza Salazar Joaquín Ignacio",
@@ -3450,7 +3459,16 @@ export const coursesData = {
         "reading": { "score": 56, "level": "" },
         "writing": { "score": 56, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 80, "level": "Consolidado" }
+        "overall": { "score": 80, "level": "Nivel consolidado" }
+      },
+      {
+        "name": "Bustos Martínez Anaís",
+        "rut": "257825183",
+        "listening": { "score": 60, "level": "" },
+        "reading": { "score": 40, "level": "" },
+        "writing": { "score": 40, "level": "" },
+        "speaking": { "score": 53, "level": "" },
+        "overall": { "score": 51, "level": "Nivel intermedio" }
       },
       {
         "name": "Cabeza Palma Agustina Paz",
@@ -3459,7 +3477,7 @@ export const coursesData = {
         "reading": { "score": 72, "level": "" },
         "writing": { "score": 72, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 86, "level": "Consolidado" }
+        "overall": { "score": 86, "level": "Nivel consolidado" }
       },
       {
         "name": "Carvajal Castro Dominga Ignacia",
@@ -3468,7 +3486,7 @@ export const coursesData = {
         "reading": { "score": 36, "level": "" },
         "writing": { "score": 36, "level": "" },
         "speaking": { "score": 80, "level": "" },
-        "overall": { "score": 67, "level": "Satisfactorio" }
+        "overall": { "score": 67, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Cerda Vidal Nicolás Valentino",
@@ -3477,7 +3495,43 @@ export const coursesData = {
         "reading": { "score": 76, "level": "" },
         "writing": { "score": 76, "level": "" },
         "speaking": { "score": 93, "level": "" },
-        "overall": { "score": 86, "level": "Consolidado" }
+        "overall": { "score": 86, "level": "Nivel consolidado" }
+      },
+      {
+        "name": "Cheix Gálvez Gaspar Andree",
+        "rut": "258123387",
+        "listening": { "score": 5, "level": "" },
+        "reading": { "score": 0, "level": "" },
+        "writing": { "score": 0, "level": "" },
+        "speaking": { "score": 80, "level": "" },
+        "overall": { "score": 28, "level": "Nivel incipiente" }
+      },
+      {
+        "name": "Díaz Garrido José Tomás",
+        "rut": "257576663",
+        "listening": { "score": 45, "level": "" },
+        "reading": { "score": 36, "level": "" },
+        "writing": { "score": 36, "level": "" },
+        "speaking": { "score": 47, "level": "" },
+        "overall": { "score": 43, "level": "Nivel intermedio" }
+      },
+      {
+        "name": "Farías Crespo Ernesto Alonso",
+        "rut": "261058715",
+        "listening": { "score": 45, "level": "" },
+        "reading": { "score": 52, "level": "" },
+        "writing": { "score": 52, "level": "" },
+        "speaking": { "score": 67, "level": "" },
+        "overall": { "score": 55, "level": "Nivel intermedio" }
+      },
+      {
+        "name": "Henríquez Llancao Mateo Alejandro",
+        "rut": "261624834",
+        "listening": { "score": 50, "level": "" },
+        "reading": { "score": 24, "level": "" },
+        "writing": { "score": 24, "level": "" },
+        "speaking": { "score": 93, "level": "" },
+        "overall": { "score": 56, "level": "Nivel intermedio" }
       },
       {
         "name": "Lastra Moreno Maximiliano Antonio",
@@ -3486,7 +3540,25 @@ export const coursesData = {
         "reading": { "score": 40, "level": "" },
         "writing": { "score": 40, "level": "" },
         "speaking": { "score": 87, "level": "" },
-        "overall": { "score": 72, "level": "Satisfactorio" }
+        "overall": { "score": 72, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Metayer Candia Bastián Manuel",
+        "rut": "258452577",
+        "listening": { "score": 60, "level": "" },
+        "reading": { "score": 24, "level": "" },
+        "writing": { "score": 24, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 52, "level": "Nivel intermedio" }
+      },
+      {
+        "name": "Núñez González Rosario Trinidad",
+        "rut": "261067846",
+        "listening": { "score": 50, "level": "" },
+        "reading": { "score": 52, "level": "" },
+        "writing": { "score": 52, "level": "" },
+        "speaking": { "score": 73, "level": "" },
+        "overall": { "score": 58, "level": "Nivel intermedio" }
       },
       {
         "name": "Ramírez Reyes Borja Andrés",
@@ -3495,7 +3567,7 @@ export const coursesData = {
         "reading": { "score": 44, "level": "" },
         "writing": { "score": 44, "level": "" },
         "speaking": { "score": 87, "level": "" },
-        "overall": { "score": 67, "level": "Satisfactorio" }
+        "overall": { "score": 67, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Saffie Vásquez Emma Paz",
@@ -3504,7 +3576,7 @@ export const coursesData = {
         "reading": { "score": 28, "level": "" },
         "writing": { "score": 28, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 61, "level": "Satisfactorio" }
+        "overall": { "score": 61, "level": "Nivel satisfactorio" }
       },
       {
         "name": "Salinas Arrué Salvador Bautista",
@@ -3513,7 +3585,16 @@ export const coursesData = {
         "reading": { "score": 72, "level": "" },
         "writing": { "score": 72, "level": "" },
         "speaking": { "score": 60, "level": "" },
-        "overall": { "score": 74, "level": "Satisfactorio" }
+        "overall": { "score": 74, "level": "Nivel satisfactorio" }
+      },
+      {
+        "name": "Soto Matías",
+        "rut": "",
+        "listening": { "score": 15, "level": "" },
+        "reading": { "score": 16, "level": "" },
+        "writing": { "score": 16, "level": "" },
+        "speaking": { "score": 47, "level": "" },
+        "overall": { "score": 26, "level": "Nivel incipiente" }
       },
       {
         "name": "Ugarte Pedraza Javier Antonio",
@@ -3522,7 +3603,7 @@ export const coursesData = {
         "reading": { "score": 92, "level": "" },
         "writing": { "score": 92, "level": "" },
         "speaking": { "score": 93, "level": "" },
-        "overall": { "score": 95, "level": "Consolidado" }
+        "overall": { "score": 95, "level": "Nivel consolidado" }
       },
       {
         "name": "Velasquez Salay Mateo Javier",
@@ -3531,7 +3612,7 @@ export const coursesData = {
         "reading": { "score": 80, "level": "" },
         "writing": { "score": 80, "level": "" },
         "speaking": { "score": 100, "level": "" },
-        "overall": { "score": 93, "level": "Consolidado" }
+        "overall": { "score": 93, "level": "Nivel consolidado" }
       }
     ]
   }
