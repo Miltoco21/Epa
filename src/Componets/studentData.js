@@ -786,6 +786,15 @@ export const coursesData = {
         speaking: { score: 0, level: "" },
         overall: { score: 0, level: "" },
       },
+      {
+        name: "Nuñez González Agustín Alonso",
+        rut: "244543596",
+        listening: { score: 68, level: "towards A2" },
+        reading: { score: 67, level: "Towards A2" },
+        writing: { score: 60, level: "Towards A2" },
+        speaking: { score: 73, level: "A2" },
+        overall: { score: 67, level: "Towards A2" },
+      }
     ],
   },
   "6D": {
@@ -1912,7 +1921,16 @@ export const coursesData = {
         "writing": { "score": 0, "level": "" },
         "speaking": { "score": 67, "level": "" },
         "overall": { "score": 67, "level": "" }
-      }
+      },
+      {
+        "name": "Viñals Vásquez Sebastián",
+        "rut": "248641037",
+        "listening": { "score": 88, "level": "" },
+        "reading": { "score": 58, "level": "" },
+        "writing": { "score": 58, "level": "" },
+        "speaking": { "score": 100, "level": "" },
+        "overall": { "score": 82, "level": "Nivel consolidado" }
+      },
     ]
   },
   "5D": {
